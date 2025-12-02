@@ -50,6 +50,9 @@ button : actions de formulaires ou interactions.
 ![image](./Capture%20d’écran%202025-12-02%20à%2020.58.48.png)
 ![image](./images/Capture%20d’écran%202025-12-02%20à%2021.05.36.png)
 
+## lien github-page
+[lien](https://salamatou12.github.io/portfolio/)
+
 ## Expérience personnelle 
 
 Ce projet m’a permis d’améliorer ma compréhension de HTML/CSS de manière concrète. J’ai appris à structurer une page complète de manière propre et organisée. L’intégration de Flexbox et Grid m’a aidé à obtenir un design moderne et responsive. Les animations m’ont permis d’ajouter une touche d’interactivité. Enfin, ce portfolio représente une base solide que je peux améliorer au fil du temps.
